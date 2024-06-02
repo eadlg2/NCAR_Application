@@ -26,3 +26,11 @@ After PyTest is intalled, the tests can be ran through the following commands fr
 cd tests
 pytest
 ```
+
+# Direct Use
+
+The package may also be directly used after cloning. From within the `src/foo_parameterization` directory, calculations can be made interactively from the command line using the following command:
+
+```
+python foo.py
+```
